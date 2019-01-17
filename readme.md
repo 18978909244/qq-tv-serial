@@ -1,4 +1,4 @@
-> 爬http://v.qq.com/x/list/tv上的数据
+> 爬 http://v.qq.com/x/list/tv 上的数据
 
 ### cnpm i
 
